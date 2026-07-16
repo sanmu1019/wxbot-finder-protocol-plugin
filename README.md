@@ -282,5 +282,7 @@ python -m py_compile .\plugin\finder_protocol_parser\main.py
 
 ## 许可证
 
-当前仓库未预设开源许可证。公开发布前，请确认 wxbot 和 protocol-core 的授权
-范围，并添加合适的 `LICENSE`。
+本插件新增代码按 MIT License 发布，详见 [LICENSE](LICENSE)。
+
+本仓库依赖的 wxbot、protocol-core、微信平台接口及其他第三方组件，
+不由本许可证重新授权；使用前请确认各自的授权范围和平台规则。
