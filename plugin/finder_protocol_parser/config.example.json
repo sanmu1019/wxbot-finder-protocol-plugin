@@ -1,0 +1,19 @@
+{
+  "enabled": true,
+  "allow_group": true,
+  "allow_private": true,
+  "auto_detect": false,
+  "allow_direct_share": false,
+  "send_summary": true,
+  "send_video": true,
+  "send_failure_text": true,
+  "video_max_size_mb": 300,
+  "download_timeout": 45,
+  "triggers": [
+    "协议解析",
+    "协议视频"
+  ],
+  "protocol_base": "http://127.0.0.1:9000/api",
+  "protocol_timeout": 15,
+  "protocol_cgi": 3906
+}
